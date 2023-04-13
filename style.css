@@ -1,0 +1,82 @@
+    * {
+        margin: 0 auto;
+    }
+    .titulo1 {
+        margin-top: 10px;
+    }
+    .titulo2 {
+        margin-top: 10px;
+    }
+    .titulo3 {
+        margin-top: 10px;
+    }
+    .texto {
+        margin-top: 10px;
+    }
+    #menu {
+        list-style: none;
+        padding: 0;
+        background-color: rgb(86, 64, 35);
+    }
+    #menu li{
+        display: inline;
+    }
+    #menu li a{
+        text-decoration: none;
+        color:rgb(229, 224, 241);
+        padding: 45px;
+        display: inline-block;
+        block-size: 1px;
+    }
+    #menu li a:hover {
+        background-color: rgb(70, 70, 196);
+    }
+    body {
+        background-color: rgb(173, 143, 110);
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+    }
+    div.box {
+        width: 100px;
+        display: inline-table;
+        padding: 10px;  
+    }
+    #contato {
+        padding: 0;
+        list-style: none;
+        display: inline-block;
+    }
+    #feedback {
+        font-size: 15px;
+    }
+    .btn {
+        background-color:rgb(86, 64, 35);
+        color: aliceblue;
+        height: 40px;
+        width: 70px;
+        margin-top: 10px;
+    }
+    .btn a {
+        text-decoration: none;
+        color:aliceblue;
+    }
+    div.formulario {
+        margin-top: 40px;
+    }
+    input{
+        height: 25px;
+        width: 300px;
+        border-style: double;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+    }
+    #redes {
+        margin-top: 70px;
+    }
+    #reserva {
+        margin-top: 60px;
+    }
+    
+
+
